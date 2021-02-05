@@ -8,6 +8,7 @@ We will try to build a minimal API testing setup, where we will combine the API 
 3. [Introduction to Lombok](https://www.baeldung.com/intro-to-project-lombok)
 4. [Builder Pattern](https://www.baeldung.com/creational-design-patterns#builder)
 5. [Object Mapper](https://www.baeldung.com/jackson-object-mapper-tutorial)
+6. [JMETER JAVA DSL](https://github.com/abstracta/jmeter-java-dsl)
 
 ## Prerequisites
 
@@ -18,6 +19,8 @@ We will try to build a minimal API testing setup, where we will combine the API 
 5. Lombok plugin installed in Intellij
 6. Git installed
 7. Docker installed
+8. docker-compose installed
+9. To have the latest Intellij and Lombok plugin installed(there is a possibility of having issues -> new version of lombok, and old version of Intellij )
 
 
 ## Installation
@@ -31,6 +34,7 @@ We will try to build a minimal API testing setup, where we will combine the API 
 7. Create an account on https://www.demoblaze.com/
 8. Restart Intellij in order to use installed plugins
 9. Run the test from test.RunningTest.testingTest 
+10. Check if docker-compose is installed by running in the terminal the command : docker-compose
 
 
 ## Tools/libraries used
@@ -46,6 +50,5 @@ We will try to build a minimal API testing setup, where we will combine the API 
 1. https://www.base64decode.org/
 2. https://www.epochconverter.com/
 3. https://www.demoblaze.com/index.html
-4. https://github.com/abstracta/jmeter-java-dsl
-5. http://www.sumondey.com/serialization-and-deserialization-using-jackson-objectmapper
-6. https://www.baeldung.com/rest-assured-tutorial
+4. http://www.sumondey.com/serialization-and-deserialization-using-jackson-objectmapper
+5. https://www.baeldung.com/rest-assured-tutorial
